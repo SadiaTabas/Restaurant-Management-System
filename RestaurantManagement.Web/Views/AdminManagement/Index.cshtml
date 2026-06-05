@@ -1,0 +1,46 @@
+﻿@model List<RestaurantManagement.Entities.Admin>
+
+<partial name="_Message" />
+
+<h2>Admin Management</h2>
+
+<a class="btn btn-primary"
+   asp-action="Detail"
+   asp-route-dataId="-1">
+    Add Admin
+</a>
+
+<table class="table table-bordered mt-3">
+    <tr>
+        <th>ID</th>
+        <th>Joined At</th>
+        <th>Employees Assigned</th>
+        <th>NID</th>
+        <th>Qualifications</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Joined_At.ToShortDateString()</td>
+            <td>@item.Employees_Assigned</td>
+            <td>@item.NID_Number</td>
+            <td>@item.Qualifications</td>
+            <td>
+                <a class="btn btn-warning"
+                   asp-action="Detail"
+                   asp-route-dataId="@item.ID">
+                    Edit
+                </a>
+
+                <a class="btn btn-danger"
+                   asp-action="Delete"
+                   asp-route-dataId="@item.ID">
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+</table>

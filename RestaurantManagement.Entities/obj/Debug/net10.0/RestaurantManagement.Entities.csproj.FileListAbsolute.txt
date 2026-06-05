@@ -1,0 +1,11 @@
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\bin\Debug\net10.0\RestaurantManagement.Entities.deps.json
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\bin\Debug\net10.0\RestaurantManagement.Entities.dll
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\bin\Debug\net10.0\RestaurantManagement.Entities.pdb
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\obj\Debug\net10.0\RestaurantManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\obj\Debug\net10.0\RestaurantManagement.Entities.AssemblyInfoInputs.cache
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\obj\Debug\net10.0\RestaurantManagement.Entities.AssemblyInfo.cs
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\obj\Debug\net10.0\RestaurantManagement.Entities.csproj.CoreCompileInputs.cache
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\obj\Debug\net10.0\RestaurantManagement.Entities.dll
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\obj\Debug\net10.0\refint\RestaurantManagement.Entities.dll
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\obj\Debug\net10.0\RestaurantManagement.Entities.pdb
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Entities\obj\Debug\net10.0\ref\RestaurantManagement.Entities.dll

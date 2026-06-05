@@ -1,0 +1,74 @@
+﻿@model RestaurantManagement.Entities.Categories
+
+@{
+    var role = Context.Session.GetString("UserRole")?.ToLower();
+}
+
+<partial name="_Message" />
+
+<div class="container border mt-4 pt-4">
+
+    @if (role != "admin")
+    {
+        <div class="alert alert-danger">
+            You are not authorized to access this page.
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            <div class="col-12">
+                @if (Model.ID == 0)
+                {
+                    <h2>Add New Category</h2>
+                }
+                else
+                {
+                    <h2>Update Category #@Model.ID</h2>
+                }
+            </div>
+            <hr />
+        </div>
+
+        <form method="post" asp-action="Detail" asp-controller="Categories">
+
+            <input type="hidden" asp-for="ID" />
+
+            <div class="row mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="row mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="row mb-3 form-check">
+                <input asp-for="Active" class="form-check-input" />
+                <label asp-for="Active" class="form-check-label"></label>
+            </div>
+
+            <div class="row">
+                <div class="col-6">
+                    <button type="submit" class="btn btn-outline-success">
+                        <i class="bi bi-save"></i> Submit
+                    </button>
+
+                    <a asp-action="Index"
+                       asp-controller="Categories"
+                       class="btn btn-outline-warning">
+                        Back
+                    </a>
+                </div>
+            </div>
+
+        </form>
+    }
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

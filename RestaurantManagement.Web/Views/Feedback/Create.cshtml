@@ -1,0 +1,43 @@
+﻿@model RestaurantManagement.Entities.Feedback
+
+<partial name="_Message" />
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height:80vh;">
+
+    <div class="card shadow-lg" style="width:450px;">
+
+        <div class="card-body p-4">
+
+            <h3 class="text-center mb-3">Give Feedback</h3>
+
+            <form method="post">
+
+                <div class="mb-3">
+                    <label>Rating</label>
+
+                    <select asp-for="Ratings" class="form-select">
+                        <option value="">Select Rating</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label>Comments</label>
+                    <textarea asp-for="Comments" class="form-control"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-success w-100">
+                    Submit
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>

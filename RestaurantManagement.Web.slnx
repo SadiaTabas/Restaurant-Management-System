@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="RestaurantManagement.Api/RestaurantManagement.Api.csproj" Id="00f55dcf-cf55-40d4-bab1-838511833718" />
+  <Project Path="RestaurantManagement.Data/RestaurantManagement.Data.csproj" />
+  <Project Path="RestaurantManagement.Entities/RestaurantManagement.Entities.csproj" />
+  <Project Path="RestaurantManagement.Repos/RestaurantManagement.Repos.csproj" />
+  <Project Path="RestaurantManagement.Shared/RestaurantManagement.Shared.csproj" />
+  <Project Path="RestaurantManagement.Web/RestaurantManagement.Web.csproj" />
+</Solution>

@@ -1,0 +1,75 @@
+﻿@model RestaurantManagement.Entities.RestaurantTable
+
+<partial name="_Message" />
+
+<div class="container border mt-4 pt-4">
+    <div class="row">
+        <div class="col-12">
+            @if (Model.ID == 0)
+            {
+                <h2>Add New Table</h2>
+            }
+            else
+            {
+                <h2>Update Table# @Model.ID</h2>
+            }
+        </div>
+        <hr />
+    </div>
+
+    <form method="post" asp-action="Detail" asp-controller="RestaurantTable">
+
+        <input type="hidden" asp-for="ID" />
+
+        <div class="row mb-3">
+            <label asp-for="Table_number" class="form-label"></label>
+            <input asp-for="Table_number" class="form-control" />
+            <span asp-validation-for="Table_number" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Capacity" class="form-label"></label>
+            <input asp-for="Capacity" class="form-control" />
+            <span asp-validation-for="Capacity" class="text-danger"></span>
+        </div>
+       
+
+        <div class="row mb-3">
+            <label asp-for="Status" class="form-label">Status</label>
+
+            <select asp-for="Status" class="form-select">
+
+                <option disabled="disabled" selected="selected">
+                    -- Select Status --
+                </option>
+
+                <option value="Available">Available</option>
+                <option value="Occupied">Occupied</option>
+                <option value="Reserved">Reserved</option>
+
+            </select>
+
+            <span asp-validation-for="Status" class="text-danger"></span>
+        </div>
+         
+
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-outline-success">
+                    <i class="bi bi-save"></i>&nbsp;Submit
+                </button>
+
+                &nbsp;
+
+                <a asp-action="Index" asp-controller="RestaurantTable" class="btn btn-outline-warning">
+                    <i class="bi bi-arrow-left"></i>&nbsp;Back To Home
+                </a>
+            </div>
+        </div>
+
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

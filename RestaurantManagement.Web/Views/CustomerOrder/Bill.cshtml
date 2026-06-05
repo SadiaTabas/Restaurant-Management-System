@@ -1,0 +1,75 @@
+﻿@model RestaurantManagement.Entities.TableOrder
+@using RestaurantManagement.Entities
+
+<div class="container mt-4">
+
+    <h2>Invoice</h2>
+
+   
+    <a class="btn btn-primary mb-3"
+       asp-controller="OrderDetail"
+       asp-action="Index"
+       asp-route-orderId="@Model.ID">
+        View Full Items
+    </a>
+
+
+    <table class="table table-bordered">
+
+        <tr>
+            <th>Order ID</th>
+            <td>@Model.ID</td>
+        </tr>
+
+        <tr>
+            <th>Status</th>
+            <td>@Model.Status</td>
+        </tr>
+
+    </table>
+
+    <h4>Items</h4>
+
+    <table class="table table-bordered">
+
+        <thead>
+            <tr>
+                <th>Item</th>
+                <th>Price</th>
+                <th>Qty</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @{
+                int grand = 0;
+                var items = ViewBag.Items as List<OrderDetail>;
+            }
+
+            @foreach (var i in items)
+            {
+                grand += i.Price * i.Quantity;
+
+                <tr>
+                    <td>@i.Item_Name</td>
+                    <td>@i.Price</td>
+                    <td>@i.Quantity</td>
+                    <td>@(i.Price* i.Quantity)</td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+    <h3>Total: @grand</h3>
+
+    <button onclick="window.print()" class="btn btn-primary">
+        Print Bill
+    </button>
+
+    
+
+</div>

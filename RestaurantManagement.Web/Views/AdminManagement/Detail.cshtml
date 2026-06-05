@@ -1,0 +1,26 @@
+﻿@model RestaurantManagement.Entities.Admin
+
+<partial name="_Message" />
+
+<h2>Admin Form</h2>
+
+<form method="post">
+
+    <input type="hidden" asp-for="ID" />
+
+    <label>Joined At</label>
+    <input asp-for="Joined_At" type="date" class="form-control" />
+
+    <label>Employees Assigned</label>
+    <input asp-for="Employees_Assigned" class="form-control" />
+
+    <label>NID Number</label>
+    <input asp-for="NID_Number" class="form-control" />
+
+    <label>Qualifications</label>
+    <textarea asp-for="Qualifications" class="form-control"></textarea>
+
+    <br />
+
+    <button type="submit" class="btn btn-success">Save</button>
+</form>

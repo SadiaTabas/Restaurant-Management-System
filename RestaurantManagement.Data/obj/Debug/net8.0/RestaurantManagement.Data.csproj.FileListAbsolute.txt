@@ -1,0 +1,17 @@
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\bin\Debug\net8.0\RestaurantManagement.Data.deps.json
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\bin\Debug\net8.0\RestaurantManagement.Data.runtimeconfig.json
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\bin\Debug\net8.0\RestaurantManagement.Data.dll
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\bin\Debug\net8.0\RestaurantManagement.Data.pdb
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\bin\Debug\net8.0\RestaurantManagement.Entities.dll
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\bin\Debug\net8.0\RestaurantManagement.Entities.pdb
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\RestaurantManagement.Data.csproj.AssemblyReference.cache
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\RestaurantManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\RestaurantManagement.Data.AssemblyInfoInputs.cache
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\RestaurantManagement.Data.AssemblyInfo.cs
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\RestaurantManagement.Data.csproj.CoreCompileInputs.cache
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\Restaura.AA8EF1D5.Up2Date
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\RestaurantManagement.Data.dll
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\refint\RestaurantManagement.Data.dll
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\RestaurantManagement.Data.pdb
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\RestaurantManagement.Data.genruntimeconfig.cache
+F:\9th semester\.NET\RestaurantManagement.Web\RestaurantManagement.Data\obj\Debug\net8.0\ref\RestaurantManagement.Data.dll

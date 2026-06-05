@@ -1,0 +1,85 @@
+﻿@model RestaurantManagement.Entities.MenuItem
+<partial name="_Message" />
+@{
+    var role = Context.Session.GetString("UserRole")?.ToLower();
+}
+
+<div class="container border mt-4 pt-4">
+    <div class="row">
+        <div class="col-12">
+            @if (Model.ID == 0)
+            {
+                <h2>Add New Menu Item</h2>
+            }
+            else
+            {
+                <h2>Update Menu Item# @Model.ID</h2>
+            }
+        </div>
+        <hr />
+    </div>
+
+    <form method="post" asp-action="Detail" asp-controller="MenuItem">
+        <input type="hidden" asp-for="ID" />
+
+        <div class="row mb-3">
+            <label asp-for="Categories_ID" class="form-label">Category</label>
+            <select asp-for="Categories_ID" asp-items="@ViewBag.CategoriesList" class="form-select">
+                <option disabled="disabled" selected="selected">-- Select Category --</option>
+                </select>
+            <span asp-validation-for="Categories_ID" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Price" class="form-label"></label>
+            <input asp-for="Price" class="form-control" type="number" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Quantity" class="form-label"></label>
+            <input asp-for="Quantity" class="form-control" type="number" />
+            <span asp-validation-for="Quantity" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Image_URL" class="form-label"></label>
+            <input asp-for="Image_URL" class="form-control" />
+            <span asp-validation-for="Image_URL" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3 form-check">
+            <input asp-for="Active" class="form-check-input" />
+            <label asp-for="Active" class="form-check-label"></label>
+            <span asp-validation-for="Active" class="text-danger"></span>
+        </div>
+
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-outline-success">
+                    <i class="bi bi-save"></i>&nbsp;Submit
+                </button>
+                &nbsp;
+                <a asp-action="Index" asp-controller="MenuItem" class="btn btn-outline-warning">
+                    <i class="bi bi-arrow-left"></i>&nbsp;Back To Home
+                </a>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

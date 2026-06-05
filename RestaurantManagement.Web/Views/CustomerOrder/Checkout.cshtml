@@ -1,0 +1,42 @@
+﻿@model RestaurantManagement.Entities.TableOrder
+
+<partial name="_Message" />
+
+<div class="container border mt-4 p-4">
+
+    <h2>Confirm Order</h2>
+
+    <form method="post">
+
+     
+        <div class="mb-3">
+            <label>Select Table</label>
+
+            <select asp-for="Table_ID" class="form-select">
+                <option value="">-- Select Table --</option>
+
+                @if (ViewBag.Tables != null)
+                {
+                    foreach (var t in ViewBag.Tables)
+                    {
+                        <option value="@t.ID">
+                            Table @t.Table_number (Capacity: @t.Capacity)
+                        </option>
+                    }
+                }
+            </select>
+
+        </div>
+
+        <div class="mb-3">
+            <label>Total Amount</label>
+            <input asp-for="Total_Amount" class="form-control" readonly />
+        </div>
+
+        <button type="submit" class="btn btn-success">
+            Confirm Order
+        </button>
+
+    </form>
+
+</div>

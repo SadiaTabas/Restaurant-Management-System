@@ -1,0 +1,70 @@
+﻿@model List<RestaurantManagement.Entities.TableOrder>
+
+<partial name="_Message" />
+
+<div class="row pt-4">
+    <div class="col-6">
+        <h2>My Orders</h2>
+    </div>
+</div>
+
+<hr />
+
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Table</th>
+            <th>Status</th>
+            <th>Total Amount</th>
+            <th>Order Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @if (Model != null && Model.Count > 0)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.ID</td>
+
+                    <td>@item.Table_ID</td>
+
+                    <td>
+                        <span class="badge bg-info">
+                            @item.Status
+                        </span>
+                    </td>
+
+                    <td>@item.Total_Amount</td>
+
+                    <td>@item.Created_at.ToString("dd MMM yyyy HH:mm")</td>
+
+                    <td>
+                        <a class="btn btn-sm btn-primary"
+                           asp-action="Bill"
+                           asp-route-dataId="@item.ID">
+                            View Bill
+                        </a>
+                    </td>
+
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center text-danger">
+                    No orders found
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

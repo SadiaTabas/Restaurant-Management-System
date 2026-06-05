@@ -1,0 +1,62 @@
+﻿@model List<RestaurantManagement.Entities.CartItem>
+
+<partial name="_Message" />
+
+<div class="container mt-4">
+
+    <h2>My Cart</h2>
+
+    <table class="table table-bordered">
+
+        <thead>
+            <tr>
+                <th>Item</th>
+                <th>Price</th>
+                <th>Qty</th>
+                <th>Total</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @{
+                int grandTotal = 0;
+            }
+
+            @foreach (var item in Model)
+            {
+                grandTotal += item.Price * item.Quantity;
+
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>
+                        <a asp-action="Minus" asp-route-id="@item.MenuItemId">-</a>
+                        @item.Quantity
+                        <a asp-action="Plus" asp-route-id="@item.MenuItemId">+</a>
+                    </td>
+                    <td>@(item.Price* item.Quantity)</td>
+                    <td>
+                        <a asp-action="Remove" asp-route-id="@item.MenuItemId" class="btn btn-danger btn-sm">
+                            X
+                        </a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+    <h4>Total: @grandTotal</h4>
+
+    <a asp-controller="CustomerOrder"
+       asp-action="Checkout"
+       class="btn btn-success">
+        Checkout
+    </a>
+
+    
+
+</div>

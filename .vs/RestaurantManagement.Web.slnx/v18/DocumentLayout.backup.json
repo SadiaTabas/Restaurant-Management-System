@@ -1,0 +1,1298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\restauranttable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\restauranttable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\restauranttable\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\restauranttable\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\reservation\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\reservation\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\orderdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\orderdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\menuitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\menuitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\menuitem\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\menuitem\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\feedback\\myfeedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\feedback\\myfeedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\feedback\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\feedback\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\customerorder\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\customerorder\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\customerorder\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\customerorder\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\customerorder\\bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\customerorder\\bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\customer\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\customer\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\categories\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\categories\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\adminmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\adminmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\adminmanagement\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\adminmanagement\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\helpers\\sessioncarthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\helpers\\sessioncarthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\restauranttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\restauranttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\customerordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\customerordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\adminmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\adminmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A580795E-C4E4-722E-D161-8973B2FEF174}|RestaurantManagement.Shared\\RestaurantManagement.Shared.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.shared\\restaurantresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A580795E-C4E4-722E-D161-8973B2FEF174}|RestaurantManagement.Shared\\RestaurantManagement.Shared.csproj|solutionrelative:restaurantmanagement.shared\\restaurantresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\tableorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\tableorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\restauranttablerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\restauranttablerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\reservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\reservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\orderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\orderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\menuitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\menuitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\restauranttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\restauranttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\tableorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\tableorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D642B0B2-10D8-F46F-1FA1-B44AA5683231}|RestaurantManagement.Data\\RestaurantManagement.Data.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.data\\rmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D642B0B2-10D8-F46F-1FA1-B44AA5683231}|RestaurantManagement.Data\\RestaurantManagement.Data.csproj|solutionrelative:restaurantmanagement.data\\rmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\categoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\categoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F55DCF-CF55-40D4-BAB1-838511833718}|RestaurantManagement.Api\\RestaurantManagement.Api.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F55DCF-CF55-40D4-BAB1-838511833718}|RestaurantManagement.Api\\RestaurantManagement.Api.csproj|solutionrelative:restaurantmanagement.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F55DCF-CF55-40D4-BAB1-838511833718}|RestaurantManagement.Api\\RestaurantManagement.Api.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.api\\restaurantmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{00F55DCF-CF55-40D4-BAB1-838511833718}|RestaurantManagement.Api\\RestaurantManagement.Api.csproj|solutionrelative:restaurantmanagement.api\\restaurantmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.repos\\restaurantmanagement.repos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C2AAEAB-9095-AE73-9BCD-5C5F735A6E97}|RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj|solutionrelative:restaurantmanagement.repos\\restaurantmanagement.repos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A580795E-C4E4-722E-D161-8973B2FEF174}|RestaurantManagement.Shared\\RestaurantManagement.Shared.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.shared\\restaurantmanagement.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A580795E-C4E4-722E-D161-8973B2FEF174}|RestaurantManagement.Shared\\RestaurantManagement.Shared.csproj|solutionrelative:restaurantmanagement.shared\\restaurantmanagement.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D642B0B2-10D8-F46F-1FA1-B44AA5683231}|RestaurantManagement.Data\\RestaurantManagement.Data.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.data\\restaurantmanagement.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D642B0B2-10D8-F46F-1FA1-B44AA5683231}|RestaurantManagement.Data\\RestaurantManagement.Data.csproj|solutionrelative:restaurantmanagement.data\\restaurantmanagement.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.entities\\restaurantmanagement.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3372E448-F796-B87B-9B0A-7509A23AAAE8}|RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj|solutionrelative:restaurantmanagement.entities\\restaurantmanagement.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\restaurantmanagement.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\restaurantmanagement.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F55DCF-CF55-40D4-BAB1-838511833718}|RestaurantManagement.Api\\RestaurantManagement.Api.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F55DCF-CF55-40D4-BAB1-838511833718}|RestaurantManagement.Api\\RestaurantManagement.Api.csproj|solutionrelative:restaurantmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F55DCF-CF55-40D4-BAB1-838511833718}|RestaurantManagement.Api\\RestaurantManagement.Api.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00F55DCF-CF55-40D4-BAB1-838511833718}|RestaurantManagement.Api\\RestaurantManagement.Api.csproj|solutionrelative:restaurantmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|f:\\9th semester\\.net\\restaurantmanagement.web\\restaurantmanagement.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FA79057-760F-DF92-5141-A8FBFACFA0EE}|RestaurantManagement.Web\\RestaurantManagement.Web.csproj|solutionrelative:restaurantmanagement.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\OrderDetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\OrderDetail\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\OrderDetail\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\OrderDetail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-01T16:20:18.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Reservation\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Reservation\\Detail.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Reservation\\Detail.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Reservation\\Detail.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T16:51:32.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Reservation\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Reservation\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Reservation\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Reservation\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T16:50:19.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\RestaurantTable\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\RestaurantTable\\Detail.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\RestaurantTable\\Detail.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\RestaurantTable\\Detail.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T21:03:38.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\RestaurantTable\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\RestaurantTable\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\RestaurantTable\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\RestaurantTable\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T21:04:38.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T05:26:03.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Program.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Program.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:49:02.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwE0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T17:46:47.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T17:51:22.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\MenuItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\MenuItem\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\MenuItem\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\MenuItem\\Index.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T10:41:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\MenuItem\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\MenuItem\\Detail.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\MenuItem\\Detail.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\MenuItem\\Detail.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T10:44:48.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyFeedback.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Feedback\\MyFeedback.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Feedback\\MyFeedback.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Feedback\\MyFeedback.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Feedback\\MyFeedback.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-01T17:12:23.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Feedback\\Create.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Feedback\\Create.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Feedback\\Create.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Feedback\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-01T17:11:50.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\CustomerOrder\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\CustomerOrder\\MyOrders.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\CustomerOrder\\MyOrders.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\CustomerOrder\\MyOrders.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T21:09:17.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\CustomerOrder\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\CustomerOrder\\Checkout.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\CustomerOrder\\Checkout.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\CustomerOrder\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T13:35:34.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bill.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\CustomerOrder\\Bill.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\CustomerOrder\\Bill.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\CustomerOrder\\Bill.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\CustomerOrder\\Bill.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T13:20:04.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAD0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T05:04:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Customer\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Customer\\Detail.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Customer\\Detail.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Customer\\Detail.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T05:23:47.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T15:38:01.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Categories\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Categories\\Detail.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Categories\\Detail.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Categories\\Detail.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T15:39:06.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T13:33:43.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\AdminManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\AdminManagement\\Index.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\AdminManagement\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\AdminManagement\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T20:21:42.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\AdminManagement\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\AdminManagement\\Detail.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\AdminManagement\\Detail.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\AdminManagement\\Detail.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T20:22:05.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T16:29:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T16:28:34.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SessionCartHelper.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Helpers\\SessionCartHelper.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Helpers\\SessionCartHelper.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Helpers\\SessionCartHelper.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Helpers\\SessionCartHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:30:52.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RestaurantTableController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\RestaurantTableController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\RestaurantTableController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\RestaurantTableController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\RestaurantTableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:50:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\ReservationController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T16:43:12.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:19:59.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\MenuItemController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T10:24:07.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:53:23.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\FeedbackController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:11:29.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerOrderController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\CustomerOrderController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\CustomerOrderController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\CustomerOrderController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\CustomerOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:08:54.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\CustomerController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:53:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\CategoriesController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:29:25.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\CartController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:33:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\BaseController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:47:39.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminManagementController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\AdminManagementController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\AdminManagementController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\AdminManagementController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\AdminManagementController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:21:12.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RestaurantManagement.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwEoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:25:02.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RestaurantResult.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Shared\\RestaurantResult.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Shared\\RestaurantResult.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Shared\\RestaurantResult.cs",
+              "RelativeToolTip": "RestaurantManagement.Shared\\RestaurantResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:58:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\UserRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\UserRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\UserRepo.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:24:25.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TableOrderRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\TableOrderRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\TableOrderRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\TableOrderRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\TableOrderRepo.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:07:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RestaurantTableRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\RestaurantTableRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\RestaurantTableRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\RestaurantTableRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\RestaurantTableRepo.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:47:48.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReservationRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\ReservationRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\ReservationRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\ReservationRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\ReservationRepo.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T16:38:08.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderDetailRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\OrderDetailRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\OrderDetailRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\OrderDetailRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\OrderDetailRepo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:19:37.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MenuItemRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\MenuItemRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\MenuItemRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\MenuItemRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\MenuItemRepo.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAFsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T10:19:17.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FeedbackRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\FeedbackRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\FeedbackRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\FeedbackRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\FeedbackRepo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:10:29.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\AdminRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\AdminRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\AdminRepo.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:19:35.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Feedback.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\Feedback.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Feedback.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\Feedback.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:06:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\MenuItem.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T10:13:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\OrderDetail.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\OrderDetail.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:59:56.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\Reservation.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Reservation.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:15:27.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RestaurantTable.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\RestaurantTable.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\RestaurantTable.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\RestaurantTable.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\RestaurantTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:25:20.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TableOrder.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\TableOrder.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\TableOrder.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\TableOrder.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\TableOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:05:41.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\User.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\User.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\User.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:23:19.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Categories.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\Categories.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Categories.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:08:14.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\CartItem.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\CartItem.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:28:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\Admin.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Admin.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:19:10.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RmDbContext.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Data\\RmDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Data\\RmDbContext.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Data\\RmDbContext.cs",
+              "RelativeToolTip": "RestaurantManagement.Data\\RmDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:38:15.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T05:24:56.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\Customer.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\Customer.cs",
+              "RelativeToolTip": "RestaurantManagement.Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:38:52.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\CustomerRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\CustomerRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\CustomerRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:54:24.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CategoriesRepo.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\CategoriesRepo.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\CategoriesRepo.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\CategoriesRepo.cs",
+              "RelativeToolTip": "RestaurantManagement.Repos\\CategoriesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowGsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:18:14.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_Message.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Shared\\_Message.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\Shared\\_Message.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\Shared\\_Message.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\Shared\\_Message.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T07:22:05.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "RestaurantManagement.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:50:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RestaurantManagement.Api.http",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Api\\RestaurantManagement.Api.http",
+              "RelativeDocumentMoniker": "RestaurantManagement.Api\\RestaurantManagement.Api.http",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Api\\RestaurantManagement.Api.http",
+              "RelativeToolTip": "RestaurantManagement.Api\\RestaurantManagement.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-20T15:07:33.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\appsettings.Development.json",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\appsettings.Development.json",
+              "RelativeToolTip": "RestaurantManagement.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-16T04:47:47.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RestaurantManagement.Repos.csproj",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj",
+              "RelativeToolTip": "RestaurantManagement.Repos\\RestaurantManagement.Repos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T17:47:15.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RestaurantManagement.Data.csproj",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Data\\RestaurantManagement.Data.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagement.Data\\RestaurantManagement.Data.csproj",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Data\\RestaurantManagement.Data.csproj",
+              "RelativeToolTip": "RestaurantManagement.Data\\RestaurantManagement.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T17:41:36.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RestaurantManagement.Entities.csproj",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj",
+              "RelativeToolTip": "RestaurantManagement.Entities\\RestaurantManagement.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T17:47:25.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RestaurantManagement.Shared.csproj",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Shared\\RestaurantManagement.Shared.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagement.Shared\\RestaurantManagement.Shared.csproj",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Shared\\RestaurantManagement.Shared.csproj",
+              "RelativeToolTip": "RestaurantManagement.Shared\\RestaurantManagement.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T17:47:37.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RestaurantManagement.Web.csproj",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\RestaurantManagement.Web.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\RestaurantManagement.Web.csproj",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\RestaurantManagement.Web.csproj",
+              "RelativeToolTip": "RestaurantManagement.Web\\RestaurantManagement.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T17:47:42.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\appsettings.json",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\appsettings.json",
+              "RelativeToolTip": "RestaurantManagement.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T19:39:34.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RestaurantManagement.Api\\appsettings.Development.json",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Api\\appsettings.Development.json",
+              "RelativeToolTip": "RestaurantManagement.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T19:40:04.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement.Api\\Program.cs",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Api\\Program.cs",
+              "RelativeToolTip": "RestaurantManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:42:42.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagement.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\9th semester\\.NET\\RestaurantManagement.Web\\RestaurantManagement.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "RestaurantManagement.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T05:25:00.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
